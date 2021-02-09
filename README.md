@@ -176,40 +176,50 @@ Conversión de Fasores
 Es posible convertir fácilmente un fasor de la forma polar a la forma binómica y viceversa. Para ello se utilizan los mismos conceptos que para convertir números complejos entre ambas formas de representación.
 Las coordenadas polares o sistema de coordenadas polares son un sistema de coordenadas bidimensional en el que cada punto del plano se determina por una distancia y un ángulo. Este sistema es ampliamente utilizado en física y trigonometría.
 
-	Conversión de coordenadas cartesianas a polares
- 
- Las coordenadas polares,  , se definen de la siguiente manera:
- La coordenada   es la distancia del punto   al origen. Puede variar entre los valores  .
- 
- 
-La coordenada   es el ángulo que forma el vector   con el eje vertical de las   en sentido horario. Puede variar entre los valores   (en radianes), o   en centígrados.
- 
-o bien
-  
-Ejemplos
-	 
- 
+![Antes de las conversiones](https://user-images.githubusercontent.com/75337022/107405992-e9525f00-6ad5-11eb-96fd-aee1ceca8b69.png)
+
+![Conversion 1](https://user-images.githubusercontent.com/75337022/107406008-ee171300-6ad5-11eb-82a1-dbc7e5ad5543.png)
+
+![Conversion 2](https://user-images.githubusercontent.com/75337022/107406023-f3745d80-6ad5-11eb-9ae6-5e43506c8dca.png)
+
+![Conversiones 3](https://user-images.githubusercontent.com/75337022/107406047-f8391180-6ad5-11eb-8832-a599d8157ea1.png)
+
+![Conversion 5](https://user-images.githubusercontent.com/75337022/107406057-fd965c00-6ad5-11eb-84a7-7d27c70ffe78.png)
+
+![Conversion 6](https://user-images.githubusercontent.com/75337022/107406075-02f3a680-6ad6-11eb-8a15-da59bed0afe9.png)
 
 
-Así, nuestro punto en coordenadas polares es  .
-	  
+Conclusiones 
 
- 
+•	El uso de los fasores es una herramienta matemática de gran ayuda, pues simplifica el análisis de los circuitos, haciendo más fácil los cálculos, ya que si se toma la señal en el dominio del tiempo se tendría que trabajar con ecuaciones diferenciales, lo cual haría más largo el procedimiento.
 
-Así, nuestro punto en coordenadas polares es  .
- 
-	 
-   
- Así, nuestro punto en coordenadas polares es  .
-	Conversión de coordenadas polares a cartesianas
- 
- En este caso, dadas la coordenadas polares  , tenemos que las coordenadas cartesianas,  , están dadas por
- 
- 
+•	Los resultados obtenidos a mano fueron cercanos, pero no iguales a los obtenidos en la calculadora en este documento. 
+
+•	La conversión de unidades facilito la resolución de ejercicios
 
 
-Ejemplo. 
-Consideremos el punto  
+Recomendaciones
+
+•	Investigar, proponer y resolver ejercicios de análisis de circuitos que involucren fasores
+
+•	Siempre tratar de manejar en la resolución de ejercicios ya sea todo en coordenadas polares o rectangulares facilitando asi la comprensión del mismo y la fácil resolución de los cálculos
+
+•	Utilizar herramientas como calculadora web o manual para verificar los resultados tomando en cuenta los cálculos hechos a mano para comprobar que las respuestas sean correctas
+
+
+Bibliografia 
+
+Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 10.8: "Leyes de Kirchhoff que utilizan fasores".
+Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 10.9: "Análisis del voltaje de nodos y de la corriente de enlaces utilizando fasores".
+Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 10.6: "Relaciones de fasor para los elementos R, L y C".
+Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 10.7: "Impedancia y admitancia".
+Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 10.5: "El Fasor".
+
+2007-2021 FisicaPracticar.com recuperado de: https://www.fisicapractica.com/matematica.php
+
+Superprof, Conversión: Coordenadas cartesianas a polares recuperado de: https://www.superprof.es/apuntes/escolar/matematicas/aritmetica/complejos/coordenadas-cartesianas-a-polares.html
+
+
 
 
 
