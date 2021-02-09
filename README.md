@@ -1,9 +1,7 @@
 # Guia-N-4
-# Fasores y conversion de coordenadas 
-
----------------Fasores---------------
-
-------(Analisis en circuitos electricos)------
+# Fasores 
+# Conversion de coordenadas
+(Analisis de circuitos electricos)
 
 1. Objetivos
 
