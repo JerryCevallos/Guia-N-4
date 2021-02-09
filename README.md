@@ -1,5 +1,8 @@
 # Guia-N-4
 
+---------------Fasores---------------
+------(Analisis en circuitos electricos-----
+
 -Objetivo  General
 
 •	Analizar el concepto de un fasor y realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
