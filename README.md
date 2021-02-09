@@ -2,7 +2,7 @@
 
 ---------------Fasores---------------
 
-------(Analisis en circuitos electricos-----
+------(Analisis en circuitos electricos)------
 
 -Objetivo  General
 
@@ -16,6 +16,11 @@
 
 •	Mostrar cuál de las dos alternativas es más factible en la hora de trabajar mejorando asi la comprensión del estudiante al momento de resolver los ejercicios de aplicación 
 
+
+-----Requisitos previos-----
+
+Investigue: concepto de fasor  tanto en su forma polar como en su forma rectangular  y si respectiva representacion grafica
+Investigar: formulas de conversion de coordenadas polares a rectangulares y vicervesa
 
 
 ------Marco Teorico-----
