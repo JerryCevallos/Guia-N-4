@@ -1,4 +1,4 @@
-# Guia-N-4
+# Guia de Laboratorio N° 4
 # Fasores 
 # Conversion de coordenadas
 (Analisis de circuitos electricos)
