@@ -189,6 +189,29 @@ Las coordenadas polares o sistema de coordenadas polares son un sistema de coord
 
 ![Antes de las conversiones](https://user-images.githubusercontent.com/75337022/107405992-e9525f00-6ad5-11eb-96fd-aee1ceca8b69.png)
 
+5.1 Resolucion de los problemas
+
+![Anexo 1 Conversion polares a rectangulares_pages-to-jpg-0001](https://user-images.githubusercontent.com/75337022/107407180-5fa39100-6ad7-11eb-8f73-950caf63fff2.jpg)
+
+![Anexo 1 Conversion polares a rectangulares_pages-to-jpg-0002](https://user-images.githubusercontent.com/75337022/107407207-692cf900-6ad7-11eb-9ace-1a66a34cdb03.jpg)
+
+![Anexo 1 Conversion polares a rectangulares_pages-to-jpg-0003](https://user-images.githubusercontent.com/75337022/107407241-70540700-6ad7-11eb-8ae3-f89132bab53e.jpg)
+
+![Anexo 1 Conversion polares a rectangulares_pages-to-jpg-0004](https://user-images.githubusercontent.com/75337022/107407275-777b1500-6ad7-11eb-9f4a-850c0a930c31.jpg)
+
+![Anexo 2 Conversion rectagular a polar_page-0001](https://user-images.githubusercontent.com/75337022/107407326-8792f480-6ad7-11eb-8f3f-ff234a6ecb6d.jpg)
+
+![Anexo 2 Conversion rectagular a polar_page-0002](https://user-images.githubusercontent.com/75337022/107407346-8cf03f00-6ad7-11eb-8f2a-56ea0f7baaee.jpg)
+
+![Anexo 2 Conversion rectagular a polar_page-0003](https://user-images.githubusercontent.com/75337022/107407425-a4c7c300-6ad7-11eb-89e0-3e0ed45b61c9.jpg)
+
+![Anexo 2 Conversion rectagular a polar_page-0004](https://user-images.githubusercontent.com/75337022/107407392-9aa5c480-6ad7-11eb-8089-7826ecdcf4ca.jpg)
+
+![Anexo 3 Ejercicios de conversiones_page-0001](https://user-images.githubusercontent.com/75337022/107407462-ad1ffe00-6ad7-11eb-9eb6-3e3714c4236f.jpg)
+
+![Anexo 3 Ejercicios de conversiones_page-0002](https://user-images.githubusercontent.com/75337022/107407495-b9a45680-6ad7-11eb-884d-a4ab798f476b.jpg)
+
+![Anexo 3 Ejercicios de conversiones_page-0003](https://user-images.githubusercontent.com/75337022/107407515-c032ce00-6ad7-11eb-9795-f41ab3bd12ff.jpg)
 
 
 6. Conclusiones
